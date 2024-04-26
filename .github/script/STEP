@@ -1,3 +1,4 @@
+
 # This is Heading One
 ## This is Heading Two
 ### This is Heading Three
@@ -5,18 +6,4 @@
 ##### This is Heading Five
 ###### This is Heading Six
 
-! [Image added to the page as instructed by Tutorial] ((https://octodex.github.com/images/yaktocat.png)
 
-###### Following is a sample for adding code to a markdown file
-``` 
-  $ echo " Hello, world !!!"
-  Hello, World !!!
-  $
-```
-
-_Following are the list of activities, with updated status Done / Not Yet
-- [x] Step 1
-- [x] Step 2
-- [x] Step 3
-- [x] Step 4
-- [ ] Step 5
