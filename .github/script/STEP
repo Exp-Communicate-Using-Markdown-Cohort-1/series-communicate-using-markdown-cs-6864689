@@ -6,3 +6,10 @@
 ###### This is Heading Six
 
 ! [Image added to the page as instructed by Tutorial] ((https://octodex.github.com/images/yaktocat.png)
+
+###### Following is a sample for adding code to a markdown file
+``` 
+  $ echo " Hello, world !!!"
+  Hello, World !!!
+  $
+```
